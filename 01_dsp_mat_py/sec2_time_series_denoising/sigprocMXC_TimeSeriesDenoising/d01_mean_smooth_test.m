@@ -1,3 +1,5 @@
+clc; clear; close all;
+
 srate = 1000; % Hz
 time  = 0:1/srate:3; % 3 seconds
 n     = length(time);

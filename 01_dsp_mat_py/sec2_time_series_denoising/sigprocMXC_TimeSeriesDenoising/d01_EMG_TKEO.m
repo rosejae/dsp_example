@@ -1,4 +1,4 @@
-clc
+clc; clear; close all;
 
 load emg4TKEO.mat
 
